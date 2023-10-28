@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "dummyData",
+			"path": "../../WhatsForDinner/dummyData"
+		},
+		{
+			"name": "WhatsForDinnerApp",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
