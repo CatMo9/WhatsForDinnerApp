@@ -1,0 +1,233 @@
+[
+  {
+    "title": "Classic Hot Dogs",
+    "image": "https://images.squarespace-cdn.com/content/v1/552f35bee4b0955308211538/1431945925984-E3BC4EQPQM1XY40NCC9K/image-asset.png",
+    "ingredients": {
+      "hotdog": [
+        "1",
+        "unit"
+      ],
+      "hotdog bun": [
+        "1",
+        "unit"
+      ],
+      "ketchup": [
+        "1",
+        "oz"
+      ]
+    },
+    "totalTimeMin": "5",
+    "cookTimeMin": "4",
+    "prepTimeMin": "1",
+    "instructions": "Heat up the hot dog in the microwave, stove top or on the grill. Wrap the bun in a papertowel and pop it in the microwave for 30 seconds. Put the two together and top with ketchup for the perfect easy meal!",
+    "keywords": [
+      "fast",
+      "easy"
+    ],
+    "website": "https://potatorolls.com/recipes/classic-hot-dog/"
+  },
+  {
+    "title": "Ceasar Salad",
+    "image": "https://spoonacular.com/recipeImages/636682-312x231.jpg",
+    "ingredients": {
+      "lettuce": [
+        "1",
+        "unit"
+      ],
+      "ceasar dressing": [
+        "2",
+        "oz"
+      ],
+      "croutons": [
+        "6",
+        "unit"
+      ]
+    },
+    "totalTimeMin": "2",
+    "cookTimeMin": "0",
+    "prepTimeMin": "2",
+    "instructions": "Cut lettuce into bite sized pieces. Toss with dressing in a bowl. Sprinkle croutons on top and serve.",
+    "keywords": [
+      "fast",
+      "easy",
+      "vegetarian"
+    ],
+    "website": "https://www.bonappetit.com/recipe/classic-caesar-salad"
+  },
+  {
+    "title": "Digornos Pizza",
+    "image": "https://d332juqdd9b8hn.cloudfront.net/wp-content/uploads/2019/09/digiorno-e1569861704936.jpg",
+    "ingredients": {
+      "pizza": [
+        "1",
+        "unit"
+      ]
+    },
+    "totalTimeMin": "21",
+    "cookTimeMin": "21",
+    "prepTimeMin": "0",
+    "instructions": "Pre-heat oven to 400 degrees. Remove pizza from plastic wrapper. Bake pizza for 18 to 21 minutes. Enjoy!",
+    "keywords": [
+      "fast",
+      "easy"
+    ],
+    "website": "https://www.goodnes.com/digiorno/products/rising-crust-pepperoni-pizza/"
+  },
+  {
+    "title": "Chicken Pasta Bake",
+    "image": "https://gimmedelicious.com/wp-content/uploads/2020/04/4-Ingredient-Chicken-Pasta-2329.jpg",
+    "ingredients": {
+      "chicken": [
+        "2",
+        "c"
+      ],
+      "pasta": [
+        "4",
+        "c"
+      ],
+      "red sauce": [
+        "16",
+        "oz"
+      ],
+      "parmesean": [
+        "4",
+        "oz"
+      ],
+      "mozzarella": [
+        "1.5",
+        "c"
+      ],
+      "mushrooms": [
+        "8",
+        "oz"
+      ],
+      "onions": [
+        "1",
+        "medium"
+      ],
+      "garlic": [
+        "4",
+        "cloves"
+      ]
+    },
+    "totalTimeMin": "55",
+    "cookTimeMin": "20",
+    "prepTimeMin": "35",
+    "instructions": "Precook pasta and chicken. Mix in baking dish. Cook for 15-20 min at 350 degrees until cheese melts.",
+    "keywords": [
+      "chicken",
+      "comfort food"
+    ],
+    "website": "https://gimmedelicious.com/4-ingredient-chicken-pasta-casserole/"
+  },
+  {
+    "title": "Chicken Enchilada Bake",
+    "image": "https://i0.wp.com/bobbiskozykitchen.com/wp-content/uploads/2022/08/slow2Bcooker2Bchicken2Benchilada2Bquinoa2B2.jpg",
+    "ingredients": {
+      "chicken": [
+        "1",
+        "lb"
+      ],
+      "black beans": [
+        "15.5",
+        "oz"
+      ],
+      "enchilada sauce": [
+        "2",
+        "c"
+      ],
+      "green chilis": [
+        "4",
+        "oz"
+      ],
+      "onion": [
+        "1",
+        "medium"
+      ],
+      "garlic": [
+        "2",
+        "cloves"
+      ],
+      "cheddar": [
+        "0.75",
+        "c"
+      ],
+      "pepper jack": [
+        "0.75",
+        "c"
+      ],
+      "quinoa": [
+        "1.5",
+        "c"
+      ],
+      "corn": [
+        "1",
+        "c"
+      ]
+    },
+    "totalTimeMin": "60",
+    "cookTimeMin": "25",
+    "prepTimeMin": "35",
+    "instructions": "Precook the chicken and the quinoa. Saute onions and chilis. Mix in bakeware with beans and cheese. Bake for 25 minutes at 375.",
+    "keywords": [
+      "chicken",
+      "mexican",
+      "easy"
+    ],
+    "website": "https://www.bobbiskozykitchen.com/2015/01/slow-cooker-chicken-enchilada-quinoa.html"
+  },
+  {
+    "title": "Chicken Teriaki with Broccoli",
+    "image": "https://www.wellplated.com/wp-content/uploads/2016/02/Crock-Pot-Teriyaki-Chicken.jpg",
+    "ingredients": {
+      "chicken": [
+        "1.5",
+        "lb"
+      ],
+      "soy sauce": [
+        "0.67",
+        "c"
+      ],
+      "rice vinegar": [
+        "3",
+        "TBSP"
+      ],
+      "honey": [
+        "3",
+        "TBSP"
+      ],
+      "brown sugar": [
+        "3",
+        "TBSP"
+      ],
+      "garlic": [
+        "1",
+        "cloves"
+      ],
+      "ginger": [
+        "1",
+        "TBSP"
+      ],
+      "broccoli": [
+        "2",
+        "crowns"
+      ],
+      "rice": [
+        "1",
+        "c"
+      ],
+      "green onions": [
+        "2",
+        "unit"
+      ]
+    },
+    "totalTimeMin": "250",
+    "cookTimeMin": "240",
+    "prepTimeMin": "10",
+    "instructions": "Cook chicken on low for four hours in teriyaki sauce. Remove chicken and shred. Serve over bed of rice/quinoa and broccoli with green onions to taste.",
+    "keywords": [
+      "chicken"
+    ],
+    "website": "https://www.wellplated.com/crock-pot-teriyaki-chicken/"
+  }
+]
